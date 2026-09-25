@@ -11,3 +11,5 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.button{transition:none}}
 
 .social-actions{display:flex;flex-wrap:wrap;gap:12px;margin-top:27px}.social-actions .button{margin-top:0}.button-instagram{border:1px solid var(--pink);color:var(--lavender)}.footer-links{display:flex;gap:22px;align-items:center;font-size:.86rem}
+
+.meeting-resources{display:flex;flex-wrap:wrap;gap:12px 28px;margin-top:23px}.meeting-resource{display:inline-flex;align-items:center;gap:9px;color:var(--lavender);font-weight:700;text-decoration:underline;text-decoration-color:var(--pink);text-underline-offset:5px}.meeting-resource:hover{color:var(--text)}
