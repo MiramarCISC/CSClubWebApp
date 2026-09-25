@@ -4,9 +4,9 @@ A dependency-free, responsive website for the Computer Science Club at San Diego
 
 ## Update club information
 
-Edit `index.html` directly. Meetings are listed as the second and fourth Friday of each month, 12:30–1:30 p.m. in room M-102. Update the `#meetings` section if the schedule changes. The club purpose, activities, officer names, advisor, and membership summary come from the supplied certification packet. Confirm officer changes before publishing; update names in `#people` when roles change. The advisor contact link uses the institutional email listed in that packet. The Join section links to the club Discord at `https://discord.sdcs.club/`. Add confirmed project links as needed. The private membership roster and personal addresses, phone numbers, student IDs, and signatures are intentionally excluded.
+Edit `index.html` directly. Meetings are listed as the second and fourth Friday of each month, 12:30–1:30 p.m. in room M-102. Update the `#meetings` section if the schedule changes. The club purpose, activities, officer names, advisor, and membership summary come from the supplied certification packet. Confirm officer changes before publishing; update names in `#people` when roles change. The Join section links to the club Discord at `https://discord.sdcs.club/` and Instagram at `https://www.instagram.com/sdcs.club/`, and gives the advisor’s Discord tag as `@ahuang`. The club purpose appears once in the About section; the hero leads with a headline and meeting details. Add confirmed project links as needed. The private membership roster and personal addresses, phone numbers, student IDs, and signatures are intentionally excluded.
 
-The styling is in `assets/styles.css`, and the favicon is in `assets/favicon.svg`. The `CNAME` file sets the GitHub Pages custom domain to `sdcs.club`; remove or change it if the domain is not ready.
+The design uses the club slide screenshot as its visual reference. The SDCS logo was translated into the self-contained vector asset `assets/logo.svg`. Styling is in `assets/styles.css`, and the matching favicon is in `assets/favicon.svg`. The `CNAME` file sets the GitHub Pages custom domain to `sdcs.club`; remove or change it if the domain is not ready.
 
 ## Publish with GitHub Pages
 
